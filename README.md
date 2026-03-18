@@ -1,4 +1,5 @@
 CS303 Assignment 2
+
 This project includes:
 
 A generic singly linked list
