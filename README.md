@@ -4,6 +4,7 @@ This project includes:
 
 A generic singly linked list
 A stack using ArrayList
+
 How to run
 javac *.java
 java Main
